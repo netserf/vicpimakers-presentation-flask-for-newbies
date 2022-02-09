@@ -19,7 +19,7 @@ the Arduino, and other micro boards running embedded Linux systems to build
 projects and learn Linux and computer programming. The group is based in
 Victoria, Canada. Their presentations are currently hosted live and online.
 
-## Where can I find more on NETSIG and presentation schedules?
+## Where can I find more on ViPiMakers and presentation schedules?
 
 * [Meetup schedule](https://www.meetup.com/Victoria-Raspberry-PiMakers-And-Others/events)
 * [Victoria PiMakers site](https://vicpimakers.ca/)
