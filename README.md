@@ -1,7 +1,7 @@
-# NetSIG Presentation - [Presentation Title]
+# VicPiMakers Presentation - Flask for Newbies
 
-[![Actions Status](https://github.com/netserf/template-presentation-repo/workflows/Markdown%20Lint/badge.svg)](https://github.com/netserf/template-presentation-repo/actions)
-[![Actions Status](https://github.com/netserf/template-presentation-repo/workflows/Markdown%20Links/badge.svg)](https://github.com/netserf/template-presentation-repo/actions)
+[![Actions Status](https://github.com/netserf/vicpimakers-presentation-flask-for-newbies/workflows/Markdown%20Lint/badge.svg)](https://github.com/netserf/vicpimakers-presentation-flask-for-newbies/actions)
+[![Actions Status](https://github.com/netserf/vicpimakers-presentation-flask-for-newbies/workflows/Markdown%20Links/badge.svg)](https://github.com/netserf/vicpimakers-presentation-flask-for-newbies/actions)
 
 ## Presentation Summary
 
@@ -10,18 +10,18 @@ Topics will include ...
 
 ## Presentation Slides
 
-* [Presentation Title](dummy-slides.txt)
+* [Flask for Newbies](vicpimakers-presentation-flask-for-newbies.pdf)
 
-## Who is NetSIG?
+## Who is VicPiMakers?
 
-NetSIG is a Special Interest Group focused on computer networking. We're
-affiliated with Victoria Raspberry PiMakers group located in Victoria, Canada.
-These presentations are currently hosted online.
+The Victoria Raspberry Pi Makers are a group of people who use the Raspberry Pi,
+the Arduino, and other micro boards running embedded Linux systems to build
+projects and learn Linux and computer programming. The group is based in
+Victoria, Canada. Their presentations are currently hosted live and online.
 
 ## Where can I find more on NETSIG and presentation schedules?
 
 * [Meetup schedule](https://www.meetup.com/Victoria-Raspberry-PiMakers-And-Others/events)
-* [NetSIG site](https://vicpimakers.ca/netsig/)
 * [Victoria PiMakers site](https://vicpimakers.ca/)
 
 ## Where can I find the cheatsheet for this presentation?
