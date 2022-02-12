@@ -5,8 +5,9 @@
 
 ## Presentation Summary
 
-In this session we'll look at ...
-Topics will include ...
+In this session we'll look at the basics of Flask and how to get started with
+it. We'll also look at how to create a simple web application and how to deploy
+it to your local development server.
 
 ## Presentation Slides
 
@@ -23,10 +24,6 @@ Victoria, Canada. Their presentations are currently hosted live and online.
 
 * [Meetup schedule](https://www.meetup.com/Victoria-Raspberry-PiMakers-And-Others/events)
 * [Victoria PiMakers site](https://vicpimakers.ca/)
-
-## Where can I find the cheatsheet for this presentation?
-
-* [Template Cheat Sheet](template-cheat-sheet.txt)
 
 ## Contributing
 
